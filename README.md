@@ -10,14 +10,14 @@ Requisitos
   - Instalar: `pip install pandas openpyxl`
 
 Uso
-1. Abrir `a.py`.
+1. Abrir `exam_generator.py`.
 2. Reemplazar la variable `json_data` con el JSON de preguntas (ejemplo abajo).
 3. Ejecutar desde PowerShell o CMD en Windows:
-   - `python a.py`
+   - `python exam_generator.py`
 4. Se generará `examen_generado.xlsx` en la misma carpeta.
 
 Ejemplo de `json_data` (ejemplo completado)
-- Copiar este bloque y pegarlo como el valor de la variable `json_data` en `a.py` (con las comillas r""" ... """):
+- Copiar este bloque y pegarlo como el valor de la variable `json_data` en `exam_generator.py` (con las comillas r""" ... """):
 
 ```json
 [
