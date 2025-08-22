@@ -1,4 +1,4 @@
-# Generador de examen (a.py)
+# Generador de examen para Quizziz/Wayground
 
 Descripción
 - Script en Python que convierte una lista de preguntas en formato JSON a un archivo Excel (`examen_generado.xlsx`).
